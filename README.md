@@ -4,7 +4,7 @@ Hello there!＼
 This repository holds my programming projects done during the period of stanCode SC101 course.
 
 Watch my *[DEMO VIDEOS](https://www.youtube.com/channel/UCGjlEBEA6LcNMut85XBl9fQ)*
-or visit my *[PROGRAMMING WEBSITE](https://angelchenwebsite.mystrikingly.com/)*
+or visit my *[PROGRAMMING WEBSITE.](https://angelchenwebsite.mystrikingly.com/)*
 
 ## Project Source Codes:
 * [The Hangman Game](https://github.com/angelchen1030/stanCode_SC101_projects/tree/main/stanCode_SC101_projects/The%20Hangman%20Game)
